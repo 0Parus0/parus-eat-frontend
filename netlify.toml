@@ -2,4 +2,10 @@
 from = "/*"
 to = "/index.html"
 status = 200
-/api/* http://13.232.135.204/eats:splat 200
+
+[[redirects]]
+  from = "/eats/*"
+  to = "http://13.232.135.204/eats:splat"
+  status = 200
+ 
+  
