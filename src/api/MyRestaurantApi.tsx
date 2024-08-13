@@ -161,7 +161,7 @@ export const useUpdateMyRestaurantOrder = () => {
         method: "PATCH",
         headers: {
           Authorization: `Bearer ${accessToken}`,
-          "Content-Type": "application/json",
+          "Content-Type": "application/json",referrerPolicy: "unsafe-url" 
         },
         body: JSON.stringify({ status: updateStatusOrderRequest.status }),
       }
