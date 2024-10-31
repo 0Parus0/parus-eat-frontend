@@ -1,5 +1,5 @@
 # Parus-Eat.com
-The app allows users to add or remove restaurants, place orders, track order status, and make payments securely using Stripe and Stripe webhooks. This project demonstrates my ability to build complex, scalable applications with robust payment integration and real-time data handling
+The app empowers users to seamlessly add or remove restaurants, place orders, track order statuses, and make secure payments through Stripe, utilizing Stripe webhooks for efficient transaction handling. This project showcases my ability to develop complex, scalable applications with robust payment integration and real-time data management, ensuring a smooth and user-friendly experience.
 
 ## Demo
 Check out the live demo [here](https://parus-food-ordering-app.netlify.app/).
